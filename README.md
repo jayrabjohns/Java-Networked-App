@@ -12,6 +12,8 @@ Documentation is included in `.\JavaDoc\`
 
 The original specifications and mark scheme can be found in `Specification.pdf`
 
+This was created using Java 11.0 as stated in the spec.
+
 # Bot Implementations
 I designed both bots to work similarly to how they work on discord.
 
