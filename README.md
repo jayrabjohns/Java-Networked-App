@@ -1,6 +1,8 @@
 # Java Networked Application
 This was my submission for the first coursework of 'CM10228 Principles of Programming 2' in my first year at the University of Bath.
 
+If you're wondering about the lack of folder structure, this is how it was asked to be submitted and I haven't gotten around to re-introducing one :) 
+
 We had to create a multithreaded, networked application which consists of:
 * A chat client & server - you can connect and talk to others connected to the server.
 * A rudementary chat bot - you can connect and talk to a bot on the server
